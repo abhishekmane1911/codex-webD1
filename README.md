@@ -43,11 +43,11 @@ To run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/abhishekmane1911/codex-webD1.git
 
 2. **Navigate to the project directory:**:
    ```bash
-   cd portfolio-website
+   cd codex-webD1
 
 3.	**Open the index.html file in your preferred web browser.**
     This will allow you to view the website and navigate between the Home, About Me, Projects, and Contact sections.
